@@ -1,0 +1,93 @@
+A {text-decoration: none;
+    color: darkgray;}
+body{
+    background: darkgray;
+}
+#topbox{
+    background: white;
+    height: 80px;
+    margin: 0 auto;
+    
+}
+#myName{
+    padding: 6px;
+    margin: 0px 0px 0px 250px;
+    width: 15%;
+    float: left;
+    color:white;
+    background: teal;
+}
+#menu{
+    padding: 31px;
+    margin: 0px 250px 0px 0px;
+    width: 20%;
+    float: right;
+    text-align: center;
+    word-spacing: 25px;
+    background: white;
+    color: darkgray;
+}
+#aboutme{
+    width: 920px;
+    height: 720px;
+    margin: 0 auto;
+    background: white;
+}
+#divider{
+    width: 860px;
+    height: 3px;
+    background: gray;
+    margin: 0 auto;
+    padding: 5px;
+}
+h2{
+    color:teal;
+    margin: 20px 20px 20px 20px;
+    padding: 10px;
+    
+}
+#name{
+    text-align: center;
+}
+
+img{
+    margin: 25px;
+}
+#box{
+    margin: 0 auto;
+    width:860px;
+    height:600px;
+}
+p1{
+    margin: 50px 20px 0px 0px;
+    line-height: 25px;
+    margin-top: 0em;
+    margin-bottom: 2em;
+}
+p2{
+    margin: 50px 20px 0px 0px;
+    line-height: 25px;
+    margin-top: 0em;
+    margin-bottom: 2em;
+}
+form{
+    line-height: 25px;
+}
+
+#smallerBox{
+width: 600px;
+height: 600px;
+float:left;
+}
+.portfolio{
+    width: 300px;
+    height: 150px;
+}
+.tag{
+    width:300px;
+    height: 30px;
+}
+
+h3{
+    height: 20px;
+}
