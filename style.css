@@ -41,3 +41,12 @@ h3{
     text-align: center;
     color: white;
 }
+h{
+    color: gray;
+}
+.btn{
+    margin-top: 5px;
+}
+.form-group{
+    color: gray;
+}
