@@ -5,6 +5,9 @@ img{
 p2{
     margin-top: 15px;
 }
+h2{
+    color: teal;
+}
 .row{
     background: darkgray;
 }
@@ -28,4 +31,13 @@ html, body{
     width:100%;
     background: gray;
     text-align: center;
+}
+.col-sm-6{
+    background: white;
+    padding: 5px;
+}
+h3{
+    background: teal;
+    text-align: center;
+    color: white;
 }
