@@ -37,9 +37,11 @@ html, body{
     padding: 5px;
 }
 h3{
-    background: teal;
+    background: turquoise;
     text-align: center;
-    color: white;
+    color: navy;
+    padding: 3px;
+
 }
 h{
     color: gray;
